@@ -1,11 +1,11 @@
 import React from "react";
 import Home from "./pages/Home";
-import { Container } from "@mui/material";
+// import { Container } from "@mui/material";
 function App() {
   return (
-    <Container>
-      <Home />
-    </Container>
+    // <Container>
+    <Home />
+    // </Container>
   );
 }
 

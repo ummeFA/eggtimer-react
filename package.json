@@ -2,7 +2,7 @@
   "name": "eggtimer-react",
   "private": true,
   "version": "0.0.0",
-  "type": "module", 
+  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -17,7 +17,9 @@
     "framer-motion": "^12.4.10",
     "open": "^10.1.0",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "react-router-dom": "^7.3.0",
+    "react-simple-typewriter": "^5.0.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.21.0",
